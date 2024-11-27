@@ -1,2 +1,2 @@
 # demo-git
-for study of git and git-hub
+for study of git and git-hub.
